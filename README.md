@@ -1,6 +1,13 @@
 crashplan_scanner
 =================
 
+Setup
+=====
+
+Add your server name, user name and password to `config.yml`. You must first copy the sample file over and alter it:
+
+    cp config.yml.sample config.yml
+
 Usage
 =====
 
