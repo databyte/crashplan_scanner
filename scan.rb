@@ -3,9 +3,6 @@
 
 require 'byebug'
 
-# this sucks because it only grabs 100 computers and using incAll throws an exception
-#computers = client.computers #(:incAll => true)
-
 class SpreadsheetReader
   require 'rubyXL'
 
