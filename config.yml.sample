@@ -1,0 +1,7 @@
+host: 'crashplan.yoursite.com'
+port: 1234
+https: false
+api_root: '/api/'
+username: 'user'
+password: 'pass'
+
